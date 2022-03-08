@@ -1,0 +1,10 @@
+.activeBack{
+    background-color: red;
+    color: yellow;
+}
+
+.navbarMenu .nav-link{
+    color: lightgreen;
+    font-weight: 650;
+}
+
